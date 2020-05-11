@@ -1,4 +1,3 @@
-
 from mcpi.minecraft import Minecraft
 import mcpi.block as block
 import numpy as np
@@ -47,7 +46,3 @@ def syfhouse():
 
 if __name__ == "__main__":
     syfhouse()
-
-
-            
-
