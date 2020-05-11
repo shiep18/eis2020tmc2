@@ -37,7 +37,7 @@ def sjchouse():
     for name in name_list:
         pos_dic[name[0]] = tuple(map(eval,name[1:]))
 
-    myname = 'lsy'
+    myname = 'sjc'
     posx = pos_dic[myname][0] + pos_dic['clancenter'][0]
     posy = pos_dic[myname][1] + pos_dic['clancenter'][1]
     posz = pos_dic[myname][2] + pos_dic['clancenter'][2]
