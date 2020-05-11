@@ -1,6 +1,11 @@
 # eis2020tmc2
 
 <<<<<<< HEAD
+# this is lsy's part
+
+hiiiiiiiiiiiii 扬哥到此一游。
+=======
+<<<<<<< HEAD
 # this is sjc's part
 
 waibiwaibi 
@@ -17,3 +22,4 @@ hello
 
 # this is zxs part
 hi my planet
+>>>>>>> ad723df834ff969a1b0e4cdf39153f83fb3417b7
