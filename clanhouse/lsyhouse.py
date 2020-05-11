@@ -4,6 +4,7 @@ import numpy as np
 import os
 import csv
 
+#id omw asd  waf fxxzqf f zxv daojg l
 mc = minecraft.Minecraft.create("47.100.46.95",4782)
 pos = mc.player.getTilePos()
 print(pos.x, pos.y, pos.z)
